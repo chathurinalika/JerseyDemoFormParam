@@ -1,0 +1,7 @@
+This project used to demo @POST with @FormParam.
+
+Steps to test:
+
+1.Enter 'http://localhost:8080/JerseyDemoFormParam/UserForm.html' on browser
+2.Enter name & age and click on 'Add User' button
+3.Should redirect to 'http://localhost:8080/RESTfulExample/rest/user/add'
